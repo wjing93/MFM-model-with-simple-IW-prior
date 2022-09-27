@@ -2,7 +2,7 @@
 
 
 This is a MCMC sampler proposed by Frühwirth-Schnatter et al. (2021). 
-The aim of the project is to investigate whether the sparse prior can improve the performance of the mixture of finite mixtures model (See Jing et al.(2022) for more details) 
+The aim of the project is to investigate whether the sparse prior can improve the performance of the mixture of finite mixtures model. (See Jing et al.(2022) for more details) 
 The codes uploaded is only part of the C++ codes that I implemented since the work has not been published. 
 
 
