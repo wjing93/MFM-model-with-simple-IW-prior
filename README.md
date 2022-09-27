@@ -16,3 +16,4 @@ References
 
 1. Frühwirth-Schnatter, S., Malsiner-Walli, G., & Grün, B. (2021) Generalized mixtures of finite mixtures and telescoping sampling. Bayesian Analysis, 16(4), 1279-1307.
 2. Jing, W., Papathomas, M., & Liverani, S. (2022). Variance matrix priors for Dirichlet process mixture models with Gaussian kernels. arXiv preprint arXiv:2202.03946.
+3. Wang, H. (2012). Bayesian graphical lasso models and efficient posterior computation. Bayesian Analysis, 7(4), 867-886.
